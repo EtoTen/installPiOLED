@@ -1,12 +1,13 @@
 # installPiOLED
 
 Quick and dirty hack to:
-1) Make this stats application work with a 128x64 oled screen with a sh1106 driver using the luma.oled library (instead of Adafruit-SSD1306)
+1) Make this stats script work with a 128x64 oled screen with a sh1106 driver using the luma.oled library (instead of 128x32 oled screen with a ssd1306 driver using Adafruit-SSD1306)
 2) Add a "starfield" screen saver to display alternatively to the stats every 60 seconds
 
 Notes:
 
 -Starfield code is from: https://github.com/rm-hull/luma.examples/blob/master/examples/starfield.py
+
 -Original stat codes is from: https://github.com/JetsonHacksNano/installPiOLED
 
 
