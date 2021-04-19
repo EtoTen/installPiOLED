@@ -9,7 +9,8 @@ setup(
     license='MIT',
     packages=find_packages(),
     install_requires=[
-        'Adafruit-SSD1306',
+        'luma.oled',
+        'luma.core',
     ],
     package_data={},
     platforms=["linux", "linux2"]
