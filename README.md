@@ -2,7 +2,7 @@
 
 Quick and dirty hack to:
 1) Make this stats script work with a 128x64 oled screen with a sh1106 driver using the luma.oled library (instead of 128x32 oled screen with a ssd1306 driver using Adafruit-SSD1306)
-2) Add a "starfield" screen saver to display alternatively to the stats every 60 seconds
+2) Add a "starfield" screen saver to display alternatively to the stats every 60 seconds (to prevent burn in)
 
 Notes:
 
